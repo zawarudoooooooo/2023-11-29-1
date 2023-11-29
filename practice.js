@@ -26,9 +26,3 @@ localStorage.setItem("num1",JSON.stringify(num1))
 console.log(JSON.stringify(num1))
 let obj2 = localStorage.getItem("num1")
 console.log(JSON.parse(obj2))
-
-
-
-
-
-
